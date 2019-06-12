@@ -1,0 +1,72 @@
+.main-container{
+    background-image: url('images/tech1.jpg');
+    height: 1000px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    position: relative;
+    padding: 5px 0px 0px 0px;
+}
+.header{
+    padding: 10px 0px 0px 50px;
+    position: relative;
+    display: block;
+    height: 100px;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: white;
+}
+.header img
+{
+    height: 80px;
+    width: 100px;
+}
+.body-part{
+    position: relative;
+    background-image: url('images/bodyImage.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    width: 100%;
+    box-sizing: border-box;
+    align-items: center;
+    margin: auto;
+    padding: 50px 200px 150px 200px;
+}
+
+.survey-question{
+    border: 3px solid white;
+    height: 650px;
+    width:  800px;
+    display: inline-block;
+    justify-content: center;
+    position: relative;
+}
+.container{
+    height: 100%;
+    width: 100%;
+}
+.mySlides{
+    height: 100%;
+    width: 100%;
+}
+.button1{
+    position: absolute;
+    right: 0px;
+    top: 50%;
+}
+.button2{
+    position: absolute;
+    left: 0px;
+    top: 50%;
+}
+.button1 img, .button2 img{
+    height: 30px;
+    width: 30px;
+}
+
+.footer{
+
+}
